@@ -1,7 +1,8 @@
-# robofriends
-Tutorial for React
-To run the project:
+# Examen React
+Examen React Iheb Elhbib
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+pour démarré le projet:
+
+1. télécharger le projet
+2. start `npm install`
+3. start `npm start`
